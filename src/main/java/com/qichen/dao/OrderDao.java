@@ -1,8 +1,8 @@
 package com.qichen.dao;
 
-import com.lanborn.model.Item;
-import com.lanborn.model.Order;
-import com.lanborn.model.Product;
+import com.qichen.model.Item;
+import com.qichen.model.Order;
+import com.qichen.model.Product;
 
 import java.sql.*;
 import java.util.*;

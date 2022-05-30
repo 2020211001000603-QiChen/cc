@@ -1,6 +1,6 @@
 package com.qichen.controller;
 
-import com.lanborn.dao.ProductDao;
+import com.qichen.dao.ProductDao;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

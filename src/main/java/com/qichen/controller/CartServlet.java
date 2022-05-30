@@ -1,8 +1,8 @@
-package com.lanborn.controller;
+package com.qichen.controller;
 
-import com.lanborn.dao.ProductDao;
-import com.lanborn.model.Item;
-import com.lanborn.model.Product;
+import com.qichen.dao.ProductDao;
+import com.qichen.model.Item;
+import com.qichen.model.Product;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

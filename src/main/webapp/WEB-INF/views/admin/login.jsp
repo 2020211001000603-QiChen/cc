@@ -47,5 +47,5 @@
 				
 			</div>
 		</div>
-	</section><!--/form-->
+</section><!--/form-->
 <%@include file="../footer.jsp"%>

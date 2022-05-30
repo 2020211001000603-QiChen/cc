@@ -1,5 +1,7 @@
 package com.qichen.model;
 
+import com.qichen.model.Product;
+
 public class Item {
     private Product product;
     private int quantity;

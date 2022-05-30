@@ -36,7 +36,7 @@ public class CalServlet extends HttpServlet {
         int secondVal = Integer.parseInt(request.getParameter("secondVal"));
         String name = request.getParameter("name");
         String action = request.getParameter("action");
-        
+
         System.out.println(action);
 
         if (action.equals("computeLength")){
