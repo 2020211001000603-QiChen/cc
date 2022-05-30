@@ -16,6 +16,7 @@ public class HitCountServlet extends HttpServlet {
     @Override
     public void init() throws ServletException {
         i = 0;
+
         super.init();
     }
 

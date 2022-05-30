@@ -22,7 +22,8 @@ public class AdminHomeServlet extends HttpServlet {
                 request.getRequestDispatcher("../WEB-INF/views/login.jsp").forward(request, response);
             }
         }else{
-            request.setAttribute("message", "Please Login as admin!!!!");
+            request.setAttribute("message", "Please Login as admin!!!");
+
         }
     }
 
