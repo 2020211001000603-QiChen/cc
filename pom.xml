@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>Jsp</artifactId>
+    <artifactId>2020211001000603qichen</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Jsp</name>
+    <name>2020211001000603qichen</name>
     <packaging>war</packaging>
 
     <properties>

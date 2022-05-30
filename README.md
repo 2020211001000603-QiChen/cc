@@ -1,3 +1,3 @@
-# School_Jsp
+# JSP
 
-## 大学的Jsp作业仓库
+## Jsp for homework
